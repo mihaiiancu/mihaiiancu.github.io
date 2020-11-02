@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mihai Iancu, Hello World!"
+title: "Hello World!"
 date: 2020-11-02
 ---
 
